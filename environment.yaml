@@ -1,0 +1,11 @@
+name: project-env
+
+channels:
+  - pkgs/main
+
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - ipykernel
